@@ -1,0 +1,12 @@
+# Python virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Temporary upload folder
+temp_uploads/
+
+# OS generated files
+.DS_Store

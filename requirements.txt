@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+spacy
+networkx
+scipy
+python-multipart
+pymupdf
+openai-whisper
